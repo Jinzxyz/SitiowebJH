@@ -5,8 +5,8 @@ x# CLASE DE PROGAMACION #
 - Css
     - clase y Pseudoclase
 - Bootstrap
-
-## MODULO O2 JAVASCRIPT ##
+> empieza donde estas, con lo que tienes
+## MODULO O2 *JAVASCRIPT*
 ## MODULO O3 PHP Y MSYQL ##
      \    /\
       )  ( ')
