@@ -9,7 +9,6 @@
 ## MODULO O2 *JAVASCRIPT*
 ## MODULO O3 PHP Y MSYQL ##
 
-![Check This Image](assets/images/example.jpg)
+ ### AROUND THE WORLD ### 
+![Berserk](assets/images/berserk.gif)
 ![Welcm](assets/images/crown.jpg)
-
-``` AROUND THE WORLD ``` 
