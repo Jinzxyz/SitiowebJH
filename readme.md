@@ -1,4 +1,4 @@
-x# CLASE DE PROGAMACION #
+# CLASE DE PROGAMACION #
 ## MODULO O1 HTML Y CCS ##
 - QUE ES HTML Y CCS
 - Etiquetas mas utilizadas
@@ -16,3 +16,5 @@ x# CLASE DE PROGAMACION #
 ![Check This Image](assets/images/example.jpg)
 
 ``` Hello World welcome to my mind ```
+
+![Welcm](assets/images/crown.jpg)
